@@ -1,6 +1,6 @@
 package com.moneymoney.test;
 
-import com.moneymoney.account.*;
+import com.moneymoney.account.SavingsAccount;
 
 public class Test {
 
